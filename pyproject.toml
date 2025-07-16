@@ -10,6 +10,7 @@ additional-compiled-static-assets = ["styles/furo-extensions.css"]
 name = "furo"
 description = "A clean customisable Sphinx documentation theme."
 dynamic = ["version"]
+version = "2024.08.06+ubuntu-noble"
 readme = "README.md"
 
 requires-python = ">=3.8"
