@@ -9,7 +9,7 @@ additional-compiled-static-assets = ["styles/furo-extensions.css"]
 [project]
 name = "furo"
 description = "A clean customisable Sphinx documentation theme."
-dynamic = ["version"]
+dynamic = ["2024.8.6.dev1"]
 readme = "README.md"
 
 requires-python = ">=3.8"
